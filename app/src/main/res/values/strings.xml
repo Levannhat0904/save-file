@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson 12.04</string>
+    <string name="message_free_space">Your free space is: %s</string>
+    <string name="action_check_free_space">Check Free Space</string>
+    <string name="action_save_data">Save Data</string>
+    <string name="hint_enter_a_message">Enter a message</string>
+    <string name="action_load_data">Load Data</string>
+    <string name="action_list_files">List Files</string>
+</resources>
